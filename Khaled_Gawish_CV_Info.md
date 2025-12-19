@@ -2,7 +2,7 @@
 **Full Stack Developer | IT Network Engineer**
 
 ## Contact Information
-- **Phone:** 070-9030-4364
+- **Phone:** 070-9030-4364 (Japan) | +20 122 445 2258 (Egypt)
 - **Email:** Khaled.gawesh@gmail.com
 - **Skype:** kholio_egy@hotmail.com
 - **Address:** 5-1-3 Hatazukadori, Chuo-ku, Kobe-shi, Hyogo, Japan
@@ -19,14 +19,15 @@ Passionate Full Stack Developer and seasoned IT professional with over 20 years 
 ## Technical Skills
 
 ### Web Development
-- **Backend:** Python, Django, REST APIs
-- **Database:** MySQL, Database Design
-- **Frontend:** HTML5, CSS3, JavaScript, Bootstrap
+- **Backend:** Python, Django, Node.js, REST APIs, JSON
+- **Frontend:** HTML5, CSS3, JavaScript, React, Bootstrap, Django Bootstrap4
+- **CMS:** WordPress & Elementor
+- **Databases:** MySQL, MariaDB, SQLite, Database Design
 - **Tools:** Git, GitHub, Docker, Command Line
 
 ### IT Infrastructure & Networking
-- **Network Administration:** Windows Server (2003/2008/2012), Active Directory
-- **Networking:** Cisco Routing & Switching, Wireless Networks
+- **Operating Systems:** Linux (Ubuntu), Windows Server (2003/2008/2012)
+- **Networking:** CCNA, MCSE, Cisco Routing & Switching, Wireless Networks, Active Directory
 - **Specialized:** Satellite Communications, Remote Support (Maritime/Overseas)
 - **Security:** Network Security, Surveillance Systems
 
@@ -40,13 +41,21 @@ Passionate Full Stack Developer and seasoned IT professional with over 20 years 
 
 ## Work Experience
 
-### **IT Network Administrator**
-**Kobe PC, Japan** | *July 2024 – Present*
+> **Note:** Suez Canal Authority positions (2001-2024) are not displayed in the public portfolio for legal reasons.
+
+### **Instructor**
+**edustation.app** | *Present*
+- Delivering technical training and educational content.
+
+### **IT Network Administrator / Digital Marketer / Branch Manager**
+**Kobe PC, Japan** | *July 2024 – July 2025*
 - Managing IT network infrastructure and providing technical support.
 - Ensuring system security and reliability for company operations.
+- Digital marketing for company website and SEO optimization.
+- Branch management responsibilities.
 
-### **IT Network Engineer**
-**Suez Canal Authority Training Center, Egypt** | *July 2015 – July 2024*
+### **Network and Software Engineer**
+**Suez Canal Authority Training Center, Egypt** | *July 2015 – Present* (Total Tenure: 2001 – Present)
 - Managed satellite communications and IT support for ships transiting the Suez Canal.
 - Responsible for onboard network maintenance, virus elimination, and internet connectivity via satellite.
 - coordinated with ship headquarters and captains for technical reporting.
@@ -85,7 +94,8 @@ Passionate Full Stack Developer and seasoned IT professional with over 20 years 
 
 ## Certifications
 
-- **AI Google Certificate** (2021)
+- **Google for Startups: Startup School - Prompt to Prototype (AI) (2025)**
+- **UI/UX Design (Adobe XD & Figma)** (2024)
 - **Advanced Digital Marketing** (2021)
 - **Web Development Challenger** (2021)
 - **IELTS Certificate** (Score 5.5) (2018)
@@ -148,11 +158,54 @@ Looking for a new role with challenge, the role that would make maximum use of m
 - Necessary maintenance and IT Support Technician for ships transiting the Suez Canal
 - IT Support Technician at Suez Canal Authority (Training Center)
 
-**Different work experiences:**
-- Taiba for clothes (factory investment)
+### Other Work Experiences
+
+#### **Customer Service Specialist**
+**misronline** | *February 2004 - January 2016 (12 years)*
+*Port Said Governorate, Egypt*
+- Understand the weak and strong points of the service that we offer and overcome the weakness by adding a creative solution.
+- Interact with all kind of customers to ensure their satisfaction.
+- Fresh employee training to make them involved with the market with good experience.
+- Achieving the required target within the deadline.
+
+#### **Internet Sales Manager**
+**Etisalat Misr** | *January 2012 - December 2014 (3 years)*
+*Port Said Governorate, Egypt*
+- Explain the offers to the client.
+- Help the customer to choose the best that fits for them.
+- Sign the contract with the customer as representative of the company.
+- Make the necessary installation for customer and ensure the satisfaction.
+
+#### **IT Network Manager**
+**Tiba for Clothes** | *January 2006 - December 2010 (5 years)*
+*Port Said Governorate, Egypt*
+- Strengthening the IT infrastructure through implementing new technologies.
+- Responsible for hardware and software installation, maintenance and repair.
+- Performing routine audits of systems and software.
+- Manage the IT budgets and expenditure on hardware and software.
+- Developing & maintaining the company IT systems, software and databases.
+- Recommending and implementing improvements and efficiencies.
+- Reporting to the IT Director & Chief Executive.
+- Having excellent time management, confidentiality & communication skills.
+- Having strong IT, commercial, planning and budgeting skills.
+- Management of server software and associated backup routines.
+- To evaluate, test, advise, train and support I.T. related projects.
+- Responsible for the recruitment and training of new staff.
+- Writing documentation for ICT procedures, security and disaster recovery.
+- Maintaining documentation of changes regarding users, functions & systems.
+
+#### **IT Support Technician for Ships**
+**CMA-CGM** | *January 2013 - December 2015 (3 years)*
+- Communicate with the headquarters of the ship and find out their needs to be implemented and the time available to carry out those tasks.
+- Follow up on the ship and find out the date of arrival and climb up on the boat.
+- Maintenance work on the computer, connect to the network, ensure the efficient operation of applications that ships need, eliminate viruses, connect computers to network, connect to the Internet via satellite, and ensure the ability to send and receive emails between the ship and the main branch.
+- Completion of all required work on time.
+- Signing of the ship's captain to report what has been done and send a copy to the headquarters.
+
+#### **Other Roles**
 - Hale Group (web hosting company)
-- Technician, distributor and support services for various ISP companies.
-- Installation and maintenance of surveillance cameras.
+- Technician, distributor and support services for various ISP companies
+- Installation and maintenance of surveillance cameras
 
 ### Skills and Certificate (Additional Details)
 Microsoft Windows Server 2003, 2008, 2012, wired, wireless networks, remote support overseas, Microsoft Certified Professional, Microsoft® Certified Systems Engineer, Cisco Certified Network Associate.
